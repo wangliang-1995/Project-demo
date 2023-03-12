@@ -4,5 +4,6 @@ function test(){
     echo "hello git2！";
     echo "hello git3！";
     echo "hello git4！";
+    echo "hello test！";
 }
 test();
