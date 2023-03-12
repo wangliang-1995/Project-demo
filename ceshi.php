@@ -6,5 +6,6 @@ function test(){
     echo "hello git4！";
     echo "hello master test！";
     echo "hello test！";
+    echo "push test！";
 }
 test();
