@@ -7,5 +7,6 @@ function test(){
     echo "hello master test！";
     echo "hello test！";
     echo "push test！";
+    echo "pull test！";
 }
 test();
